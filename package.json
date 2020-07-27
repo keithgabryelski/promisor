@@ -1,0 +1,25 @@
+{
+  "name": "promisor",
+  "version": "1.0.0",
+  "description": "Promise wrapper to hang on to resolver, rejector, and current promise state",
+  "main": "src/Promisor.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keithgabryelski/promisor.git"
+  },
+  "keywords": [
+    "promise",
+    "state-management",
+    "resolver",
+    "rejector"
+  ],
+  "author": "Keith Gabryelski <keith@gabryelski.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keithgabryelski/promisor/issues"
+  },
+  "homepage": "https://github.com/keithgabryelski/promisor#readme"
+}
